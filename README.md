@@ -18,7 +18,7 @@ Powered by **aichat**, **Ollama**, **RAG**, and curated red team repositories li
 - ✅ **RAG over GitHub repos** — always up to date with latest offensive techniques  
 - ✅ **Multi-turn dialogue** via `--session`  
 - ✅ **Fish shell integration** — just type `Nikki ...`  
-- ✅ **Ready for [Athena OS](https://athenaos.org)** (Arch-compatible packaging)
+- ✅ **Ready for [Athena OS](https://athenaos.org)** (Arch-compatible packaging) (https://github.com/Athena-OS)
 
 ---
 
